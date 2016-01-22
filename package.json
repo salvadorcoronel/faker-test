@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salvadorcoronel/faker-test.git"
+    "url": "git+https://github.com/salvadorcoronel/faker-test"
   },
   "keywords": [
     "faker",
