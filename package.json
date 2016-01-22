@@ -1,0 +1,29 @@
+{
+  "name": "faker-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "endpoints.js",
+  "dependencies": {
+    "faker": "^3.0.1",
+    "express": "^4.13.4",
+    "lodash": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salvadorcoronel/faker-test.git"
+  },
+  "keywords": [
+    "faker",
+    "test"
+  ],
+  "author": "Salvador Coronel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salvadorcoronel/faker-test/issues"
+  },
+  "homepage": "https://github.com/salvadorcoronel/faker-test#readme"
+}
