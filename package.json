@@ -12,10 +12,6 @@
   "scripts": {
     "test": ""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/salvadorcoronel/faker-test"
-  },
   "keywords": [
     "faker",
     "test"
